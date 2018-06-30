@@ -1,0 +1,21 @@
+.container {
+height: 200rpx;
+width:100%;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: center;
+justify-content: space-between;
+padding: 5px;
+box-sizing: border-box;
+} 
+.box{ position: relative}
+.main{background: #f6f6f6; 
+      border: 1px solid #ccc; 
+      margin:5px auto; 
+      padding:2px;
+      text-align: center;
+      border-radius: 10rpx; }
+.mainmove{position: absolute; opacity: 0.7}
+.maind{background: #fff; border:1px dashed #efefef;}
+.mainend{ position: static; opacity: 1;}

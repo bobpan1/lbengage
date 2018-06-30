@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "语音留言本",
+  
+  "usingComponents": {
+    "explode": "/components/Explode/explode"
+  }
+}
